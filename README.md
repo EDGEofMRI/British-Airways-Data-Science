@@ -8,4 +8,4 @@ As a data scientist at British Airways (BA), by playing a crucial role in levera
 
 #Task two
 
-
+In today's digital landscape, customers are empowered with access to vast amounts of information, reshaping the buying cycle significantly. Airlines, recognizing the shift, must adopt proactive strategies to engage customers long before they reach the airport. This proactive approach is facilitated by data and predictive models, with data quality being paramount for effective machine learning algorithms. In this task involves manipulating and preparing customer booking data to construct a robust predictive model. It's crucial to interpret the model results to gauge its predictive capabilities accurately and understand each variable's contribution to its efficacy in predicting the target outcome—customer holiday purchases.
